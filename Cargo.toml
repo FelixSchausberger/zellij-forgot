@@ -7,5 +7,5 @@ authors = ["Karim Ould Mahieddine"]
 
 [dependencies]
 owo-colors = "4.1.0"
-zellij-tile = "0.41.2"
+zellij-tile = "0.45.1"
 chrono = "0.4"
